@@ -1,0 +1,21 @@
+# Flutter/Dart specific files to ignore
+
+# Built application files
+/build/
+
+# Dart/Dart related files
+.dart_tool/
+.packages
+pubspec.lock
+
+# Flutter works in parallel with the native platform
+# and the following files should be ignored
+#/ios/Flutter/App.framework
+#/ios/Flutter/Flutter.framework
+#/ios/Flutter/flutter_assets
+#/android/.gradle
+#/android/app/build/
+
+#  IDE files 
+/.idea/
+/.vscode/
